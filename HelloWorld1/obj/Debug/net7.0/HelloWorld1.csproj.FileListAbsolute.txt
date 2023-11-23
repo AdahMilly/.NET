@@ -1,0 +1,14 @@
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\bin\Debug\net7.0\HelloWorld1.exe
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\bin\Debug\net7.0\HelloWorld1.deps.json
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\bin\Debug\net7.0\HelloWorld1.runtimeconfig.json
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\bin\Debug\net7.0\HelloWorld1.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\bin\Debug\net7.0\HelloWorld1.pdb
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.AssemblyInfoInputs.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.AssemblyInfo.cs
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\refint\HelloWorld1.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.pdb
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\HelloWorld1.genruntimeconfig.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\HelloWorld1\obj\Debug\net7.0\ref\HelloWorld1.dll

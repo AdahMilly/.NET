@@ -1,0 +1,14 @@
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
