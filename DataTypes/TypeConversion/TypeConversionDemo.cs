@@ -18,12 +18,23 @@ namespace DataTypes.TypeConversion
         }
         public void ExplicitConversion()
         {
-            //has a risk of data loss during conversion
+            //has a risk of data loss during conversion, converting a bigger data type to a smaller data type
             int num1 = 350;
             byte num2 = (byte)num1;
         }
         public void NonCompartibleConversions()
         {
+            //we use helper methods to convert non-compartible. Convert, Parse, TryParse
+            string num1 = "100";
+            int num2 = Convert.ToInt32(num1);
+
+            //Parse - will throw an error if not possible
+            int num3 = int.Parse(num1);
+
+            //TryParse - exception thrown but not handled
+            string num5 = "Hello";
+            bool b2 = true;
+            bool b4 = int.TryParse(num5, out int num6);
 
         }
     }
