@@ -35,6 +35,8 @@ namespace DataTypes.Strings
             easily
 """;
             //Raw string interpolation
+            string greetings;
+            greetings = "Hola";
             var message8 = $""""
                 The coach said the following
                 {greetings}
