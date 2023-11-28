@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace OOP.Encapsulation
 {
+    //wrapping of data and methods into a single unit
+    //make data more secure by data
     public class BankAccount
     {
         private decimal balance;
