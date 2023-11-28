@@ -1,0 +1,14 @@
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\bin\Debug\net7.0\Classes.exe
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\bin\Debug\net7.0\Classes.runtimeconfig.json
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\bin\Debug\net7.0\Classes.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\bin\Debug\net7.0\Classes.pdb
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.pdb
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\Classes.genruntimeconfig.cache
+C:\Users\MildredOchieng\Desktop\Projects\.NET\Classes\Classes\obj\Debug\net7.0\ref\Classes.dll
